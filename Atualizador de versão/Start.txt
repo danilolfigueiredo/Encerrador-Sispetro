@@ -1,0 +1,1 @@
+set /a vlocal type \\HSERVER\scgwin\SispetroCLS\ver
